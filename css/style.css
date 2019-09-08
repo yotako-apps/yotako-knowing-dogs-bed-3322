@@ -1,0 +1,180 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 129px 88px;
+    border-top-right-radius: 129px 88px;
+    border-bottom-left-radius: 129px 88px;
+    border-bottom-right-radius: 129px 88px;
+    margin-left: 88px;
+    margin-top: 134px;
+    width: 256px;
+    height: 173px
+  }
+  .style1,
+  .style2 {
+    border-top-left-radius: 71px 22px;
+    border-top-right-radius: 71px 22px;
+    border-bottom-left-radius: 71px 22px;
+    border-bottom-right-radius: 71px 22px;
+    margin-left: 106px;
+    margin-top: 137px;
+    width: 140px;
+    height: 42px
+  }
+  .style2 {
+    border-top-left-radius: 55px 37px;
+    border-top-right-radius: 55px 37px;
+    border-bottom-left-radius: 55px 37px;
+    border-bottom-right-radius: 55px 37px;
+    margin-left: 80px;
+    margin-top: 88px;
+    width: 108px;
+    height: 71px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 129px 88px;
+    border-top-right-radius: 129px 88px;
+    border-bottom-left-radius: 129px 88px;
+    border-bottom-right-radius: 129px 88px;
+    margin-left: 180px;
+    margin-top: 274px;
+    width: 524px;
+    height: 354px
+  }
+  .style1,
+  .style2 {
+    border-top-left-radius: 71px 22px;
+    border-top-right-radius: 71px 22px;
+    border-bottom-left-radius: 71px 22px;
+    border-bottom-right-radius: 71px 22px;
+    margin-left: 217px;
+    margin-top: 281px;
+    width: 287px;
+    height: 86px
+  }
+  .style2 {
+    border-top-left-radius: 55px 37px;
+    border-top-right-radius: 55px 37px;
+    border-bottom-left-radius: 55px 37px;
+    border-bottom-right-radius: 55px 37px;
+    margin-left: 164px;
+    margin-top: 180px;
+    width: 221px;
+    height: 145px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 129px 88px;
+    border-top-right-radius: 129px 88px;
+    border-bottom-left-radius: 129px 88px;
+    border-bottom-right-radius: 129px 88px;
+    margin-left: 216px;
+    margin-top: 329px;
+    width: 628px;
+    height: 424px
+  }
+  .style1,
+  .style2 {
+    border-top-left-radius: 71px 22px;
+    border-top-right-radius: 71px 22px;
+    border-bottom-left-radius: 71px 22px;
+    border-bottom-right-radius: 71px 22px;
+    margin-left: 260px;
+    margin-top: 336px;
+    width: 343px;
+    height: 103px
+  }
+  .style2 {
+    border-top-left-radius: 55px 37px;
+    border-top-right-radius: 55px 37px;
+    border-bottom-left-radius: 55px 37px;
+    border-bottom-right-radius: 55px 37px;
+    margin-left: 196px;
+    margin-top: 216px;
+    width: 265px;
+    height: 174px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 129px 88px;
+    border-top-right-radius: 129px 88px;
+    border-bottom-left-radius: 129px 88px;
+    border-bottom-right-radius: 129px 88px;
+    margin-left: 282px;
+    margin-top: 429px;
+    width: 819px;
+    height: 554px
+  }
+  .style1,
+  .style2 {
+    border-top-left-radius: 71px 22px;
+    border-top-right-radius: 71px 22px;
+    border-bottom-left-radius: 71px 22px;
+    border-bottom-right-radius: 71px 22px;
+    margin-left: 339px;
+    margin-top: 438px;
+    width: 448px;
+    height: 134px
+  }
+  .style2 {
+    border-top-left-radius: 55px 37px;
+    border-top-right-radius: 55px 37px;
+    border-bottom-left-radius: 55px 37px;
+    border-bottom-right-radius: 55px 37px;
+    margin-left: 256px;
+    margin-top: 282px;
+    width: 346px;
+    height: 227px
+  }
+}
